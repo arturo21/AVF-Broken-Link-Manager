@@ -145,4 +145,4 @@ Este proyecto está bajo la Licencia [MIT](LICENSE). Puedes usarlo, modificarlo,
 
 ---
 
-**Desarrollado por Senior WordPress Architect**
+**Desarrollado por AVFDigital**
